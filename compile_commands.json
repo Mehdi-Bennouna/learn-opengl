@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/azpect/Projects/learn-opengl/build",
+  "command": "/usr/bin/c++  -I/home/azpect/Projects/learn-opengl/include -std=gnu++20 -o CMakeFiles/app.dir/src/main.cpp.o -c /home/azpect/Projects/learn-opengl/src/main.cpp",
+  "file": "/home/azpect/Projects/learn-opengl/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+}
+]
